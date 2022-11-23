@@ -8,6 +8,10 @@ __pycache__/
 
 # Distribution / packaging
 .Python
+prototyping/Books/
+*.pdf
+*.docx
+*.doc
 build/
 develop-eggs/
 dist/
