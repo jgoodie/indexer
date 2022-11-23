@@ -1,0 +1,20 @@
+python FS indexer
+
+### PROTOTYPE
+specifically to "scan" a file system for eBooks and documents
+use NLP to summarize and get topics
+use apache TIKA
+store data into SQLite and use fast text search
+
+### Containerize and REST API
+once the prototype is working containerize it. 
+switch from SQLite to Postgres or something else? SQLlite is portable is a pro
+REST API to query
+
+### Build a UI
+big questions here
+which framework? Node? 
+
+### Other
+how much overlap with MR?
+can this be used by MR?
